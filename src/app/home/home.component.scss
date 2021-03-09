@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Netflix_Fonts";
+    src: url("../../assets/BebasNeue-Regular.ttf") format("woff2"),
+   }
+
+h1 {
+    font-family: Netflix_Fonts;
+    font-size: 62px;
+}
+
+h4 {
+    font-family: Netflix_Fonts;
+    font-size: 42px;
+}
+
+.picture-left{
+    float: left;
+}
+ 
+.div-categoryContainer{
+    padding: 10px;
+}
+ 
+.paragraph-right {
+  margin-top : 50px;
+}
+
+.font-p1 {
+    font-family: Netflix_Fonts;
+    font-size: 32px;
+}
+
+.font-p2 {
+    font-family: Netflix_Fonts;
+    font-size: 32px;
+    font-style: italic;
+    text-decoration: underline;
+}
