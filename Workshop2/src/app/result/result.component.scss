@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Netflix_Fonts";
+    src: url("../../assets/BebasNeue-Regular.ttf") format("woff2"),
+   }
+@font-face {
+    font-family: "GOT_Fonts";
+    src: url("../../assets/Game\ of\ Thrones.ttf") format("woff2"),
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 7px 0;
+    width: 400px;
+    border-radius: 25px;
+    border: solid black 2px;
+    box-sizing: border-box;
+    
+}
+
+.text-center {
+    background-image: url("../../assets/result.jpg");
+    background-position: 60%;
+    font-family: "GOT_Fonts";
+    font-size: 11px;
+}
+
+.btn {
+    background-color: #8d3131;
+    border-radius: 25px;
+    border: solid black 2px;
+    font-family: "GOT_Fonts";
+    font-size: 12px;
+    margin-right: 100px;
+}

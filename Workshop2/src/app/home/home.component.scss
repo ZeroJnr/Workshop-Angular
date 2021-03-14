@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "Netflix_Fonts";
+    src: url("../../assets/BebasNeue-Regular.ttf") format("woff2"),
+   }
+@font-face {
+    font-family: "GOT_Fonts";
+    src: url("../../assets/Game\ of\ Thrones.ttf") format("woff2"),
+   }
+
+.text-center {
+    background-image: url("../../assets/home.jpg");
+    background-position: 60%;
+}
+
+.btn {
+    background-color: #8d3131;
+    border-radius: 25px;
+    font-family: "GOT_Fonts";
+    font-size: 15px;
+}
+
+h1 {
+    font-family: GOT_Fonts;
+    font-size: 32px;
+}
+
+h4 {
+    font-family: GOT_Fonts;
+    font-size: 22px;
+}
+
+.picture-left{
+    float: left;
+}
+ 
+.div-categoryContainer{
+    padding: 10px;
+}
+ 
+.paragraph-right {
+  margin-top : 50px;
+}
+
+.font-p1 {
+    font-family: GOT_Fonts;
+    font-size: 22px;
+}
+
+.font-p2 {
+    font-family: GOT_Fonts;
+    font-size: 32px;
+    font-style: italic;
+    text-decoration: underline;
+}
